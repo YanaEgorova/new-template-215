@@ -166,7 +166,7 @@
         margin-bottom: 2rem;
         -webkit-text-stroke: .2rem var(--sub-text-color);
 
-        background-image: linear-gradient(to right bottom, #33d2dd, #8572d8);
+        background-image: linear-gradient(to right bottom, var(--fifth-brand-color), var(--fourth-brand-color));
         background-size: contain;
         background-clip: text;
         -webkit-background-clip: text;

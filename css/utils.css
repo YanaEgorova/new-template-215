@@ -188,7 +188,7 @@ body.error-active .error__overlay {
   font-family: var(--title-font);
   transition: all .3s ease-in-out;
   color: var(--sub-text-color);
-  background-image: linear-gradient(to right, #6743cd, #8245c8, #9749c2, #a94fbe, #b756b9);
+  background-image: linear-gradient(to right, var(--fourth-brand-color), var(--second-brand-color));
   border-radius: 5rem;
   border: .2rem solid var(--sub-text-color);
   -webkit-box-shadow: .5rem .5rem 2rem 0rem rgba(0,0,0,0.2);
