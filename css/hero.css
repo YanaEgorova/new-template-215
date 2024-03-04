@@ -390,6 +390,7 @@
         box-shadow: .5rem .5rem 2rem 0rem rgba(0,0,0,0.2);
         border: .2rem solid var(--sub-text-color);
         max-width: 55rem;
+        margin-bottom: 0;
     }
 }
 
